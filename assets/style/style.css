@@ -1,0 +1,19 @@
+header {
+    background-color: #f8f9fa;
+}
+
+
+footer {
+    background-color: #343a40;
+    color: #ffffff;
+}
+
+.card-footer a {
+    background-color: #007bff;
+    color: #ffffff;
+}
+
+.card-footer a:hover {
+    background-color: #0056b3;
+    color: #ffffff;
+}
